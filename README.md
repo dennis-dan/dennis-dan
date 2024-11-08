@@ -4,7 +4,7 @@
 
 🚀 Passionate about coding, algorithms, and software development 🚀
 
-💻 Proficient in a variety of programming languages, including Python, Java, C, and Assembly MIPS 💻
+💻 Proficient in a variety of programming languages, including Python, Java, C, C++ and Assembly MIPS 💻
 
 🌐 Exploring the world of technology, one line of code at a time 🌍
 
